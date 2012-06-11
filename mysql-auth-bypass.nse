@@ -6,9 +6,9 @@ posted to http://seclists.org/oss-sec/2012/q2/493
 ---
 -- @output
 -- 3306/tcp open  mysql
--- | mysql-auth-bypass:  
--- |   
--- |_ mysql is vulnerable to authentication bypass
+-- | mysql-auth-bypass: 
+-- |_  user root is vulnerable to auth bypass
+
 
 author = "Marc Wickenden"
 license = "Same as Nmap--See http://nmap.org/book/man-legal.html"
