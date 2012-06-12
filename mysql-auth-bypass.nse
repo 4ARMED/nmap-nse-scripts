@@ -18,7 +18,6 @@ require 'shortport'
 require 'stdnse'
 require 'mysql'
 require 'unpwdb'
-require 'nsedebug'
 
 -- Version 0.1
 -- Created 11/06/2012 - v0.1 - created by Marc Wickenden <marc@offensivecoder.com>, based on nse script by Patrik Karlsson
